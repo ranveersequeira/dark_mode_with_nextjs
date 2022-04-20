@@ -2,6 +2,12 @@
   padding: 0 2rem;
 }
 
+.rightAbsolute {
+  position:absolute;
+  right:10vw;
+  top:10vh;
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
